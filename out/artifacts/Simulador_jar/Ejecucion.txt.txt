@@ -1,0 +1,6 @@
+Start
+cd Desktop
+java -jar Simulador.jar
+
+
+Exit
